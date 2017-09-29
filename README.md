@@ -1,4 +1,4 @@
-# Our Code Guideline
+# Our Tech Stack
 I've found that it's pretty interesting to see what other people use on their website and how they use it to scale their application. So I decide, why not implement it on my Startup? So here it is, us being transparent about our technologies that we use.
 
 # HTML and CSS
