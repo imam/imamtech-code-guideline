@@ -14,6 +14,6 @@ I've found that it's pretty interesting to see what other people use on their we
 # PHP
 
 - Yep, we use PHP, but trying really hard to maintain the best practice so it won't be a messy project.
-- Heavily used on Jupeter Clean Code adaption for PHP (From Robert C. Martin). We want to add some other rules to make our code easier to read and lovely to develop on, might add one specific repo for it.
+- Heavily used on [Jupeter Clean Code adaption for PHP](https://github.com/jupeter/clean-code-php) (From Robert C. Martin). We want to add some other rules to make our code easier to read and lovely to develop on, might add one specific repo for it.
 
 # Laravel
