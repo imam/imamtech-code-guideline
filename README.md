@@ -18,6 +18,8 @@ I've found that it's pretty interesting to see what other people use on their we
 
 ## Laravel
 
+- For Laravel best practice, nothing better than watching Laracon. What they tell most of them will be our practice to do things, especially talk from Jeffrey Way and Adam Wathan :)
+
 # Git
 
 - We use Github for all of our cloud repository. Why? Because lots of deployment sites (like Heroku) already makes easy integration with Github, and because if I ever want to get a side job in the future, my Github will look more awesome because most of recruiter see your Github, and it's just a nice impression to look that you're spending lots of your time contributing on Github even on your private repository.
