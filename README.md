@@ -24,3 +24,13 @@ I've found that it's pretty interesting to see what other people use on their we
 
 - We use Github for all of our cloud repository. Why? Because lots of deployment sites (like Heroku) already makes easy integration with Github, and because if I ever want to get a side job in the future, my Github will look more awesome because most of recruiter see your Github, and it's just a nice impression to look that you're spending lots of your time contributing on Github even on your private repository.
 - I choose bash over any git client.
+
+## Github
+
+- We use standard Github for public git repo and Developer's plan Github for private repo (With discount for college student)
+
+# Netlify
+
+- Netlify is the best for static hosting, and we use all of their free plan features, like static site hosting and SSL.
+
+
