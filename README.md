@@ -31,6 +31,8 @@ I've found that it's pretty interesting to see what other people use on their we
 
 # Netlify
 
-- Netlify is the best for static hosting, and we use all of their free plan features, like static site hosting and SSL.
+- Netlify is the best for static hosting, and we use lots of their free plan features, like static site hosting and SSL.
 
+# Heroku
 
+- We use their $7 plan and for now, it's more than enough.
